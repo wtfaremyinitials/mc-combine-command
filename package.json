@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-combine-command",
+  "version": "1.0.0",
+  "description": "Transform an array of Minecraft commands into a single one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/mc-combine-command.git"
+  },
+  "keywords": [
+    "minecraft",
+    "command",
+    "concat",
+    "concatenate",
+    "commandblock"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/mc-combine-command/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/mc-combine-command"
+}
